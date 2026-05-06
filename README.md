@@ -1,56 +1,102 @@
-<h1 align="center">Hi 👋, I'm Marmik Patel</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML & Data Science Enthusiast 🚀
-</h3>
+# Hey 👋 I'm Marmik Patel
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+%26+Data+Science+Enthusiast+🚀;AWS+%7C+Docker+%7C+Kubernetes+☁️;Power+BI+%7C+Tableau+%7C+Analytics+📊;Always+Learning+New+Technologies+⚡" />
 
-## 🌟 About Me
-
-- 🤖 Exploring AI/ML & Data Science
-- ☁️ Learning AWS & Cloud Technologies
-- 📊 Building dashboards using Power BI & Tableau
-- 🐳 Working with Docker & Kubernetes
-- 💻 Passionate about modern technologies and real-world projects
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]https://www.linkedin.com/in/marmik-patel246official/
+## 🚀 About Me
 
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-
-![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
-
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+- 🤖 Passionate about **AI/ML & Data Science**
+- ☁️ Exploring **AWS Cloud Technologies**
+- 📊 Creating dashboards with **Power BI & Tableau**
+- 🐳 Learning **Docker & Kubernetes**
+- 💡 Interested in solving real-world problems using technology
+- 📚 Always learning and building new things
 
 ---
 
-## 📈 GitHub Stats
+# 🌐 Connect With Me
 
-![](https://github-readme-stats.vercel.app/api?username=Marmik-Patel03&theme=tokyonight&show_icons=true)
+<p align="center">
+<a href="YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Marmik-Patel03&theme=tokyonight)
+<a href="YOUR_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:marmikkp03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Quote
+# ⚡ Tech Stack
 
-"Learning never stops in tech ⚡"
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,git,github,mysql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marmik-Patel03&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marmik-Patel03&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Marmik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marmik-Patel03&theme=tokyo-night)](https://github.com/Marmik-Patel03)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Marmik-Patel03&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Building intelligent solutions with code and curiosity."
+
+<img src="https://komarev.com/ghpvc/?username=Marmik-Patel03&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
